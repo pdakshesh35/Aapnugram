@@ -12,6 +12,7 @@
     "firebase-admin": "^7.0.0",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-elements": "^1.0.0",
     "react-redux": "^5.1.1",
     "react-redux-firebase": "^2.1.6",
     "react-scripts": "1.1.4",
